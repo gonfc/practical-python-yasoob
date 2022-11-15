@@ -1,0 +1,11 @@
+https://github.com/gonfc/Es-Regnet/blob/main/notes/9.data_visualization%20(Python%20project).md
+http://detect-respond.blogspot.com/2022/04/stop-using-hashes-for-detection-and.html
+https://github.com/tokuhirom/obsidian-stopwatch-plugin
+https://keep.google.com/u/0/
+https://www.geeksforgeeks.org/socket-programming-python/
+https://www.spreadsheetclass.com/excel-filter-based-on-a-list/
+https://www.youtube.com/watch?v=zC5tXc4yGXI
+https://threatconnect.com/stix-taxii/
+https://xsoar.pan.dev/docs/reference/integrations/edl
+https://www.ibm.com/docs/en/qradar-on-cloud?topic=overview-importing-iocs-reference-set
+https://www.thedutchhacker.com/misp-on-tryhackme/
